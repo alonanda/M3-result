@@ -1,0 +1,4 @@
+Some common comments : 
+1.	Page factory doesn’t cover for all the fields.
+2.	OR of xml file is missing in many of the solutions.
+3.	Flow is not covered properly : the alert messages are not specified and handled in many of the solutions.
